@@ -1,0 +1,66 @@
+equal = p+q-p*q....
+p ⋀ p ≡ p (Idem potencia)
+p ⋀ q ≡ q ⋀ p (Comutatividade)
+p ⋀ q ⋀ r ≡ p⋀(q ⋀ r) (Associatividade)
+
+>>Conjunção: duas sentenças podem ser combinadas numa sentença
+mediante o uso do conectivo de conjunção “e” (⋀).
+
+>>Disjunção: sentenças podem ser combinadas numa sentença mediante o uso
+do conectivo de disjunção “ou” (⋁).
+
+>>Condicional: sentenças podem ser combinadas numa sentença mediante o
+uso do conectivo de condicional “Se p, então q ” (p →q ).
+
+>>Bicondicional: sentenças podem ser combinadas numa sentença mediante o
+uso do conectivo de bicondicional “p se e somente se q ” (p ↔ q ).
+
+Técnicas de demonstração
+
+Hipótese:
+
+A premissa dada (p).
+
+Tese
+
+• Uma Consequência dessa premissa (q).
+
+Demonstração por contra positiva p q ~q ~ p
+
+• ” Se sou cearense, então sou brasileiro”. (p q ).
+
+• ” Se não sou brasileiro, então não sou cearense”. (~q ~ p ).
+
+Demonstração Direta (p q)
+
+Exemplo. Se n ∊N, então n
+
+2 ≥ 2n – 1.
+
+Prova.
+
+Se n ∊N n ≥ 1.
+
+n − 1
+
+2 ≥ 0 n
+
+2 − 2n + 1 ≥ 0 n
+
+2 ≥ 2n – 1.
+
+Demonstração por redução ao absurdo
+
+• Supõe-se a negativa da tese para chegar a uma sentença falsa.
+
+(p q ) ( p ∧ ~q → (F)).
+
+Exemplo. Se n ∊ Z, então n ∉ 0,1 .
+
+Prova. Supondo que n ∈ (0,1). 0 < n < 1 ( x 2)
+0 < 2n < 2 2n ∊ Z
+
+2n = 1 n =
+1
+2
+∉ Z.
